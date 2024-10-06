@@ -1,4 +1,5 @@
 **921. Minimum Add to Make Parentheses Valid**
+
 Approach:-
 If we will get the open bracket then we will try to push the value in stack
 and if we will closw bracket we will try to pop if stack is not empty
